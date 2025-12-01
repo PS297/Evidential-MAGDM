@@ -2,7 +2,7 @@
 
 
 ## Dataset
-# The rerence paper for downloading dataset is given below.
+### The reference paper for downloading the dataset is given below.
 @article{kulyabin2024octdl,
   title={Octdl: Optical coherence tomography dataset for image-based deep learning methods},
   author={Kulyabin, Mikhail and Zhdanov, Aleksei and Nikiforova, Anastasia and Stepichev, Andrey and Kuznetsova, Anna and Ronkin, Mikhail and Borisov, Vasilii and Bogachev, Alexander and Korotkich, Sergey and Constable, Paul A and others},
